@@ -23,8 +23,8 @@ objects:
               sourceStrategy:
                   from:
                       kind: ImageStreamTag
-                      name: ruby27-rhel7-oracle:1.0.4
-                      namespace: openshift
+                      name: ruby27-rhel7-oracle:1.0.3
+                      namespace: edenordigital-dev
           output:
               to:
                   kind: ImageStreamTag
